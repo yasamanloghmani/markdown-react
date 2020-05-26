@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/markdown-react/static/css/main.75bf6483.chunk.css",
+    "main.css": "/markdown-react/static/css/main.045f4e50.chunk.css",
     "main.js": "/markdown-react/static/js/main.803deed6.chunk.js",
     "main.js.map": "/markdown-react/static/js/main.803deed6.chunk.js.map",
     "runtime-main.js": "/markdown-react/static/js/runtime-main.42dbb78e.js",
@@ -8,15 +8,15 @@
     "static/js/2.805704a2.chunk.js": "/markdown-react/static/js/2.805704a2.chunk.js",
     "static/js/2.805704a2.chunk.js.map": "/markdown-react/static/js/2.805704a2.chunk.js.map",
     "index.html": "/markdown-react/index.html",
-    "precache-manifest.680424fe5c31322a995bbe152c709e80.js": "/markdown-react/precache-manifest.680424fe5c31322a995bbe152c709e80.js",
+    "precache-manifest.4bd7f5354fe0084381eca65d8ab5bcfd.js": "/markdown-react/precache-manifest.4bd7f5354fe0084381eca65d8ab5bcfd.js",
     "service-worker.js": "/markdown-react/service-worker.js",
-    "static/css/main.75bf6483.chunk.css.map": "/markdown-react/static/css/main.75bf6483.chunk.css.map",
+    "static/css/main.045f4e50.chunk.css.map": "/markdown-react/static/css/main.045f4e50.chunk.css.map",
     "static/js/2.805704a2.chunk.js.LICENSE.txt": "/markdown-react/static/js/2.805704a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.42dbb78e.js",
     "static/js/2.805704a2.chunk.js",
-    "static/css/main.75bf6483.chunk.css",
+    "static/css/main.045f4e50.chunk.css",
     "static/js/main.803deed6.chunk.js"
   ]
 }
