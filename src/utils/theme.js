@@ -1,6 +1,6 @@
 export const lightTheme = {
     body: '#E2E2E2',
-    text: '#363537',
+    text: 'black',
     toggleBorder: '#FFF',
     gradient: 'linear-gradient(#39598A, #79D7ED)',
     // boxShadow :
@@ -8,7 +8,7 @@ export const lightTheme = {
   
   export const darkTheme = {
     body: 'background: linear-gradient(145deg, #090d2c, #0b0f34)',
-    text: '#FAFAFA',
+    text: 'aliceblue',
     toggleBorder: '#6B8096',
     gradient: 'linear-gradient(#091236, #1E215D)',
     boxShadow : 'box-shadow:  50px 50px 100px #05071a ,-50px -50px 100px #0f1548 ',
