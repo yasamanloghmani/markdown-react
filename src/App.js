@@ -87,8 +87,8 @@ Bonus points:
         <GlobalStyles />
         <div className="hi">
         <Lottie options={this.defaultOptions}
-              height={280}
-              width={550}
+              height={230}
+              width={480}
               isStopped={this.state.isStopped}
               isPaused={this.state.isPaused}
               className="hi"
