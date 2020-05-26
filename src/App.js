@@ -33,7 +33,8 @@ export default class App extends Component {
     super(props);
     this.ref = React.createRef();
     this.state = {
-      markdown: `## :heart: Hello, I'm a REACT-Markdown Editor.
+      markdown: `## :heart: Hello, This is a REACT-Markdown Editor.
+#### (Yasaman : "Last time, I decided to use Vanilla Javascrip, for this Hackathon, I challenged myself so I built this markdown-editor with REACT.JS, Styled-component, React-ace, React-showdown , React-fontawesome and Lottie for the animation)
 ### 
 
 Bonus points:
@@ -43,6 +44,8 @@ Bonus points:
 - Dark Mood and Light Mood
 - Print to PDF
 - Responsive design
+
+
 `,
       theme: "github"
     };
