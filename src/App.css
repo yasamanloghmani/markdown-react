@@ -115,6 +115,7 @@ p {
   .box-size{
     width: 80%;
     height: 400px!important;
+    overflow-y: scroll;
   }
   .editor{
     width:300px!important;
