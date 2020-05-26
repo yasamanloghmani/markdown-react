@@ -42,7 +42,6 @@ Bonus points:
 - Selectable themes for input area
 - Dark Mood and Light Mood
 - Print to PDF
-- Locally installed (using Electron, for example)
 - Responsive design
 `,
       theme: "github"
