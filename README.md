@@ -12,8 +12,8 @@ Bonus points:
 - Responsive design
 
 
-![main-dark](https://imgur.com/undefined.png)
+![main-dark](https://imgur.com/38Zew9K.png)
 
-![main-light](https://imgur.com/undefined.png)
+![main-light](https://imgur.com/D87D9OJ.png)
 
 ![responsive](https://imgur.com/y1K3S3H.png)
